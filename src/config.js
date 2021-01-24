@@ -1,4 +1,6 @@
 const config = {
+    STRIPE_KEY: "pk_test_51ICVLeLId1inZYIw6JPBpiE4QdQPWbLLCIHTtSSz1JEED1wdx1CgSSe9ryWxKrQvh7tPNkqQ1EOGk7Ye6MpB7Mz400WuSmOMZd",
+    MAX_ATTACHMENT_SIZE: 5000000,
     s3: {
       REGION: "ca-central-1",
       BUCKET: "notes-app-uploas-files",
